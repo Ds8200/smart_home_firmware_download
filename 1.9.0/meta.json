@@ -1,0 +1,14 @@
+{
+  "version": "1.9.0",
+  "released_at": "2026-04-16T20:10:04Z",
+  "is_stable": true,
+  "description": "תיקונים",
+  "changelog": [],
+  "build": {
+    "platform": "espressif32",
+    "framework": "arduino",
+    "board": "esp32dev",
+    "built_at": "2026-04-16T20:10:04Z",
+    "sha256": ""
+  }
+}
