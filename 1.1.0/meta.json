@@ -1,0 +1,19 @@
+{
+  "version": "1.1.0",
+  "released_at": "2026-04-10T10:00:00Z",
+  "is_stable": true,
+  "description": "תיקוני באגים ושיפורים",
+  "changelog": [
+    "תיקון סנכרון מצב ממסרים",
+    "הוספת דיווח התקדמות OTA",
+    "שיפור יציבות חיבור MQTT"
+  ],
+  "build": {
+    "platform": "espressif32",
+    "framework": "arduino",
+    "board": "esp32dev",
+    "built_at": "2026-04-10T09:30:00Z",
+    "sha256": ""
+  },
+  "min_version": "1.0.0"
+}
