@@ -1,6 +1,13 @@
 {
-  "latest": "1.6.0",
+  "latest": "1.7.0",
   "versions": [
+    {
+      "version": "1.7.0",
+      "released_at": "2026-04-16T19:41:08Z",
+      "is_stable": true,
+      "description": "תיקונים",
+      "url": "https://raw.githubusercontent.com/Ds8200/smart_home_firmware_download/main/1.7.0/firmware.bin"
+    },
     {
       "version": "1.6.0",
       "released_at": "2026-04-16T19:29:53Z",
