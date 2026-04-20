@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "board": "esp32s2",
+  "released_at": "2026-04-20T22:37:16Z",
+  "is_stable": true,
+  "description": "תיקוני באגים",
+  "changelog": [],
+  "build": {
+    "platform": "espressif32",
+    "framework": "arduino",
+    "board": "esp32s2",
+    "built_at": "2026-04-20T22:37:16Z",
+    "sha256": ""
+  }
+}
